@@ -68,3 +68,8 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 *.lnk
+<<<<<<< HEAD
+=======
+words
+words.txt
+>>>>>>> 6b3784c (added rule that blocks words.txt)
